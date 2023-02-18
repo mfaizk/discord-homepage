@@ -15,7 +15,8 @@
 
 # Demo Images
 
-![home]()
-![home-sm]()
-![body]()
-![body-sm]()
+![home](https://github.com/mfaizk/discord-homepage/blob/master/blobs/home.png)
+![home-sm](https://github.com/mfaizk/discord-homepage/blob/master/blobs/home-sm.png)
+![home-nav-sm](https://github.com/mfaizk/discord-homepage/blob/master/blobs/home-nav-sm.png)
+![body](https://github.com/mfaizk/discord-homepage/blob/master/blobs/body.png)
+![body-sm](https://github.com/mfaizk/discord-homepage/blob/master/blobs/body-sm.png)
